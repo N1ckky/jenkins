@@ -1,0 +1,296 @@
+[2020-03-05 00:14:15] [main] |DEBUG| (Log.java) myLogger - Webdriver opening url:https://disk.yandex.by/
+[2020-03-05 00:14:17] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356456616screenshot.jpg
+[2020-03-05 00:14:17] [main] |DEBUG| (Log.java) myLogger - Click By.xpath: //*[contains(@class,'button_login')]
+[2020-03-05 00:14:17] [main] |DEBUG| (Log.java) myLogger - Waiting for element to be clickable By.xpath: //*[contains(@class,'button_login')]
+[2020-03-05 00:14:17] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356457372screenshot.jpg
+[2020-03-05 00:14:18] [main] |INFO | (Log.java) myLogger - Open login page
+[2020-03-05 00:14:18] [main] |DEBUG| (Log.java) myLogger - Type nickTestQA in text fieldBy.xpath: //*[@id='passp-field-login']
+[2020-03-05 00:14:18] [main] |DEBUG| (Log.java) myLogger - Waiting for visibility of element By.xpath: //*[@id='passp-field-login']
+[2020-03-05 00:14:20] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356458926screenshot.jpg
+[2020-03-05 00:14:20] [main] |DEBUG| (Log.java) myLogger - Click By.xpath: //*[(contains(@class,'passp-button passp-sign-in-button'))]
+[2020-03-05 00:14:20] [main] |DEBUG| (Log.java) myLogger - Waiting for element to be clickable By.xpath: //*[(contains(@class,'passp-button passp-sign-in-button'))]
+[2020-03-05 00:14:21] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356460376screenshot.jpg
+[2020-03-05 00:14:21] [main] |INFO | (Log.java) myLogger - Type login
+[2020-03-05 00:14:21] [main] |DEBUG| (Log.java) myLogger - Type mytestpassword in text fieldBy.xpath: //*[@id='passp-field-passwd']
+[2020-03-05 00:14:21] [main] |DEBUG| (Log.java) myLogger - Waiting for visibility of element By.xpath: //*[@id='passp-field-passwd']
+[2020-03-05 00:14:23] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356462555screenshot.jpg
+[2020-03-05 00:14:23] [main] |INFO | (Log.java) myLogger - Type password
+[2020-03-05 00:14:23] [main] |DEBUG| (Log.java) myLogger - Click By.xpath: //*[(contains(@class,'button2_type_submit'))]
+[2020-03-05 00:14:23] [main] |DEBUG| (Log.java) myLogger - Waiting for element to be clickable By.xpath: //*[(contains(@class,'button2_type_submit'))]
+[2020-03-05 00:14:25] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356463960screenshot.jpg
+[2020-03-05 00:14:25] [main] |INFO | (Log.java) myLogger - Click submit button
+[2020-03-05 00:14:25] [main] |INFO | (Log.java) myLogger - Successful log in
+[2020-03-05 00:14:25] [main] |DEBUG| (Log.java) myLogger - Getting current URL
+[2020-03-05 00:14:25] [main] |DEBUG| (Log.java) myLogger - Getting current URL
+[2020-03-05 00:16:23] [main] |DEBUG| (Log.java) myLogger - Webdriver opening url:https://disk.yandex.by/
+[2020-03-05 00:16:24] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356584330screenshot.jpg
+[2020-03-05 00:16:24] [main] |DEBUG| (Log.java) myLogger - Click By.xpath: //*[contains(@class,'button_login')]
+[2020-03-05 00:16:24] [main] |DEBUG| (Log.java) myLogger - Waiting for element to be clickable By.xpath: //*[contains(@class,'button_login')]
+[2020-03-05 00:16:25] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356584986screenshot.jpg
+[2020-03-05 00:16:26] [main] |INFO | (Log.java) myLogger - Open login page
+[2020-03-05 00:16:26] [main] |DEBUG| (Log.java) myLogger - Type nickTestQA in text fieldBy.xpath: //*[@id='passp-field-login']
+[2020-03-05 00:16:26] [main] |DEBUG| (Log.java) myLogger - Waiting for visibility of element By.xpath: //*[@id='passp-field-login']
+[2020-03-05 00:16:27] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356586526screenshot.jpg
+[2020-03-05 00:16:27] [main] |DEBUG| (Log.java) myLogger - Click By.xpath: //*[(contains(@class,'passp-button passp-sign-in-button'))]
+[2020-03-05 00:16:27] [main] |DEBUG| (Log.java) myLogger - Waiting for element to be clickable By.xpath: //*[(contains(@class,'passp-button passp-sign-in-button'))]
+[2020-03-05 00:16:29] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356587943screenshot.jpg
+[2020-03-05 00:16:29] [main] |INFO | (Log.java) myLogger - Type login
+[2020-03-05 00:16:29] [main] |DEBUG| (Log.java) myLogger - Type mytestpassword in text fieldBy.xpath: //*[@id='passp-field-passwd']
+[2020-03-05 00:16:29] [main] |DEBUG| (Log.java) myLogger - Waiting for visibility of element By.xpath: //*[@id='passp-field-passwd']
+[2020-03-05 00:16:31] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356590144screenshot.jpg
+[2020-03-05 00:16:31] [main] |INFO | (Log.java) myLogger - Type password
+[2020-03-05 00:16:31] [main] |DEBUG| (Log.java) myLogger - Click By.xpath: //*[(contains(@class,'button2_type_submit'))]
+[2020-03-05 00:16:31] [main] |DEBUG| (Log.java) myLogger - Waiting for element to be clickable By.xpath: //*[(contains(@class,'button2_type_submit'))]
+[2020-03-05 00:16:33] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356591678screenshot.jpg
+[2020-03-05 00:16:33] [main] |INFO | (Log.java) myLogger - Click submit button
+[2020-03-05 00:16:33] [main] |INFO | (Log.java) myLogger - Successful log in
+[2020-03-05 00:16:33] [main] |DEBUG| (Log.java) myLogger - Getting current URL
+[2020-03-05 00:16:40] [main] |DEBUG| (Log.java) myLogger - Getting current URL
+[2020-03-05 00:16:40] [main] |DEBUG| (Log.java) myLogger - Getting current URL
+[2020-03-05 00:17:41] [main] |DEBUG| (Log.java) myLogger - Webdriver opening url:https://disk.yandex.by/
+[2020-03-05 00:17:43] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356663016screenshot.jpg
+[2020-03-05 00:17:43] [main] |DEBUG| (Log.java) myLogger - Click By.xpath: //*[contains(@class,'button_login')]
+[2020-03-05 00:17:43] [main] |DEBUG| (Log.java) myLogger - Waiting for element to be clickable By.xpath: //*[contains(@class,'button_login')]
+[2020-03-05 00:17:44] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356664093screenshot.jpg
+[2020-03-05 00:17:45] [main] |INFO | (Log.java) myLogger - Open login page
+[2020-03-05 00:17:45] [main] |DEBUG| (Log.java) myLogger - Type nickTestQA in text fieldBy.xpath: //*[@id='passp-field-login']
+[2020-03-05 00:17:45] [main] |DEBUG| (Log.java) myLogger - Waiting for visibility of element By.xpath: //*[@id='passp-field-login']
+[2020-03-05 00:17:47] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356665955screenshot.jpg
+[2020-03-05 00:17:47] [main] |DEBUG| (Log.java) myLogger - Click By.xpath: //*[(contains(@class,'passp-button passp-sign-in-button'))]
+[2020-03-05 00:17:47] [main] |DEBUG| (Log.java) myLogger - Waiting for element to be clickable By.xpath: //*[(contains(@class,'passp-button passp-sign-in-button'))]
+[2020-03-05 00:17:48] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356667717screenshot.jpg
+[2020-03-05 00:17:49] [main] |INFO | (Log.java) myLogger - Type login
+[2020-03-05 00:17:49] [main] |DEBUG| (Log.java) myLogger - Type mytestpassword in text fieldBy.xpath: //*[@id='passp-field-passwd']
+[2020-03-05 00:17:49] [main] |DEBUG| (Log.java) myLogger - Waiting for visibility of element By.xpath: //*[@id='passp-field-passwd']
+[2020-03-05 00:17:51] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356669997screenshot.jpg
+[2020-03-05 00:17:51] [main] |INFO | (Log.java) myLogger - Type password
+[2020-03-05 00:17:51] [main] |DEBUG| (Log.java) myLogger - Click By.xpath: //*[(contains(@class,'button2_type_submit'))]
+[2020-03-05 00:17:51] [main] |DEBUG| (Log.java) myLogger - Waiting for element to be clickable By.xpath: //*[(contains(@class,'button2_type_submit'))]
+[2020-03-05 00:17:52] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356671516screenshot.jpg
+[2020-03-05 00:17:52] [main] |INFO | (Log.java) myLogger - Click submit button
+[2020-03-05 00:17:52] [main] |INFO | (Log.java) myLogger - Successful log in
+[2020-03-05 00:17:55] [main] |DEBUG| (Log.java) myLogger - Getting current URL
+[2020-03-05 00:18:14] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356693651screenshot.jpg
+[2020-03-05 00:18:15] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356694874screenshot.jpg
+[2020-03-05 00:18:19] [main] |INFO | (Log.java) myLogger - Open login page
+[2020-03-05 00:18:21] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356699494screenshot.jpg
+[2020-03-05 00:18:22] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356701378screenshot.jpg
+[2020-03-05 00:18:27] [main] |INFO | (Log.java) myLogger - Type login
+[2020-03-05 00:18:30] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356708557screenshot.jpg
+[2020-03-05 00:18:30] [main] |INFO | (Log.java) myLogger - Type password
+[2020-03-05 00:18:31] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356710269screenshot.jpg
+[2020-03-05 00:18:37] [main] |INFO | (Log.java) myLogger - Click submit button
+[2020-03-05 00:18:37] [main] |INFO | (Log.java) myLogger - Successful log in
+[2020-03-05 00:20:20] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356819356screenshot.jpg
+[2020-03-05 00:20:20] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356820328screenshot.jpg
+[2020-03-05 00:20:21] [main] |INFO | (Log.java) myLogger - Open login page
+[2020-03-05 00:20:23] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356821881screenshot.jpg
+[2020-03-05 00:20:25] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356823645screenshot.jpg
+[2020-03-05 00:20:25] [main] |INFO | (Log.java) myLogger - Type login
+[2020-03-05 00:20:27] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356826201screenshot.jpg
+[2020-03-05 00:20:27] [main] |INFO | (Log.java) myLogger - Type password
+[2020-03-05 00:20:29] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583356827868screenshot.jpg
+[2020-03-05 00:20:29] [main] |INFO | (Log.java) myLogger - Click submit button
+[2020-03-05 00:20:29] [main] |INFO | (Log.java) myLogger - Successful log in
+[2020-03-05 01:00:06] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:00:06] [main] |ERROR| (Log.java) myLogger - The following option is required: [--browser | -b]
+[2020-03-05 01:01:07] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:01:44] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:05:46] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:06:08] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:06:31] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:10:08] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:12:05] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:13:10] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:14:10] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:18:11] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:19:05] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:19:27] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:22:23] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:28:39] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:28:50] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:32:07] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:34:50] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:34:58] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:35:08] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:35:16] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:36:35] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:40:18] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:40:48] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:43:01] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:43:39] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:48:04] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:48:49] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:48:55] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:50:55] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:51:08] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:57:46] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 01:58:36] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 02:03:07] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 02:03:32] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 02:03:53] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 02:06:09] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 02:06:27] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 02:06:38] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 02:07:49] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 02:10:15] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-05 02:10:38] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-06 22:43:30] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-06 22:44:16] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-06 22:45:20] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-06 22:45:35] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-06 22:46:34] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-06 22:48:29] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-06 22:52:48] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-06 22:54:20] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-06 22:54:30] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-06 22:54:34] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-06 22:54:42] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-06 22:55:39] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-06 22:56:17] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-06 22:58:23] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-06 23:01:45] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-06 23:03:18] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-06 23:03:52] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-06 23:04:05] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-06 23:07:55] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-06 23:08:15] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-06 23:08:28] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-06 23:08:38] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-06 23:09:01] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-07 00:05:08] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583528708497screenshot.jpg
+[2020-03-07 00:05:09] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583528709115screenshot.jpg
+[2020-03-07 00:05:11] [main] |INFO | (Log.java) myLogger - Open login page
+[2020-03-07 00:05:12] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583528711720screenshot.jpg
+[2020-03-07 00:05:13] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583528712580screenshot.jpg
+[2020-03-07 00:05:13] [main] |INFO | (Log.java) myLogger - Type login
+[2020-03-07 00:05:14] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583528713808screenshot.jpg
+[2020-03-07 00:05:14] [main] |INFO | (Log.java) myLogger - Type password
+[2020-03-07 00:05:15] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583528714680screenshot.jpg
+[2020-03-07 00:05:15] [main] |INFO | (Log.java) myLogger - Click submit button
+[2020-03-07 00:05:15] [main] |INFO | (Log.java) myLogger - Successful log in
+[2020-03-07 00:06:52] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583528812316screenshot.jpg
+[2020-03-07 00:06:53] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583528812852screenshot.jpg
+[2020-03-07 00:06:54] [main] |INFO | (Log.java) myLogger - Open login page
+[2020-03-07 00:06:55] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583528814856screenshot.jpg
+[2020-03-07 00:06:56] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583528815767screenshot.jpg
+[2020-03-07 00:06:56] [main] |INFO | (Log.java) myLogger - Type login
+[2020-03-07 00:06:57] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583528817050screenshot.jpg
+[2020-03-07 00:06:57] [main] |INFO | (Log.java) myLogger - Type password
+[2020-03-07 00:06:58] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583528817942screenshot.jpg
+[2020-03-07 00:06:58] [main] |INFO | (Log.java) myLogger - Click submit button
+[2020-03-07 00:06:58] [main] |INFO | (Log.java) myLogger - Successful log in
+[2020-03-07 00:10:28] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583529028213screenshot.jpg
+[2020-03-07 00:10:29] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583529028759screenshot.jpg
+[2020-03-07 00:10:31] [main] |INFO | (Log.java) myLogger - Open login page
+[2020-03-07 00:10:32] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583529031254screenshot.jpg
+[2020-03-07 00:10:33] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583529032349screenshot.jpg
+[2020-03-07 00:10:33] [main] |INFO | (Log.java) myLogger - Type login
+[2020-03-07 00:10:35] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583529034913screenshot.jpg
+[2020-03-07 00:10:35] [main] |INFO | (Log.java) myLogger - Type password
+[2020-03-07 00:10:36] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583529036066screenshot.jpg
+[2020-03-07 00:10:36] [main] |INFO | (Log.java) myLogger - Click submit button
+[2020-03-07 00:10:36] [main] |INFO | (Log.java) myLogger - Successful log in
+[2020-03-07 00:10:59] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583529058842screenshot.jpg
+[2020-03-07 00:10:59] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583529059411screenshot.jpg
+[2020-03-07 00:11:01] [main] |INFO | (Log.java) myLogger - Open login page
+[2020-03-07 00:11:02] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583529061927screenshot.jpg
+[2020-03-07 00:11:03] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583529062902screenshot.jpg
+[2020-03-07 00:11:03] [main] |INFO | (Log.java) myLogger - Type login
+[2020-03-07 00:11:05] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583529064322screenshot.jpg
+[2020-03-07 00:11:05] [main] |INFO | (Log.java) myLogger - Type password
+[2020-03-07 00:11:06] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583529065386screenshot.jpg
+[2020-03-07 00:11:06] [main] |INFO | (Log.java) myLogger - Click submit button
+[2020-03-07 00:11:06] [main] |INFO | (Log.java) myLogger - Successful log in
+[2020-03-07 19:47:50] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-07 19:47:50] [main] |ERROR| (Log.java) myLogger - Was passed main parameter 'false' but no main parameter was defined in your arg class
+[2020-03-07 19:48:53] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-07 19:48:53] [main] |ERROR| (Log.java) myLogger - Was passed main parameter 'false' but no main parameter was defined in your arg class
+[2020-03-07 19:49:25] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-07 19:49:34] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583599774528screenshot.jpg
+[2020-03-07 19:49:35] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583599775067screenshot.jpg
+[2020-03-07 19:49:37] [main] |INFO | (Log.java) myLogger - Open login page
+[2020-03-07 19:49:38] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583599777997screenshot.jpg
+[2020-03-07 19:49:40] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583599779198screenshot.jpg
+[2020-03-07 19:49:40] [main] |INFO | (Log.java) myLogger - Type login
+[2020-03-07 19:49:42] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583599781317screenshot.jpg
+[2020-03-07 19:49:42] [main] |INFO | (Log.java) myLogger - Type password
+[2020-03-07 19:49:43] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583599782654screenshot.jpg
+[2020-03-07 19:49:43] [main] |INFO | (Log.java) myLogger - Click submit button
+[2020-03-07 19:49:43] [main] |INFO | (Log.java) myLogger - Successful log in
+[2020-03-07 19:50:45] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-07 19:50:45] [main] |ERROR| (Log.java) myLogger - Was passed main parameter 'true' but no main parameter was defined in your arg class
+[2020-03-07 19:51:53] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-07 19:51:53] [main] |ERROR| (Log.java) myLogger - Was passed main parameter 'true' but no main parameter was defined in your arg class
+[2020-03-07 20:02:14] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-07 20:03:16] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-07 20:03:24] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583600604421screenshot.jpg
+[2020-03-07 20:03:25] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583600604965screenshot.jpg
+[2020-03-07 20:03:27] [main] |INFO | (Log.java) myLogger - Open login page
+[2020-03-07 20:03:28] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583600607236screenshot.jpg
+[2020-03-07 20:03:29] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583600608259screenshot.jpg
+[2020-03-07 20:03:29] [main] |INFO | (Log.java) myLogger - Type login
+[2020-03-07 20:03:30] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583600610022screenshot.jpg
+[2020-03-07 20:03:31] [main] |INFO | (Log.java) myLogger - Type password
+[2020-03-07 20:03:31] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583600611112screenshot.jpg
+[2020-03-07 20:03:32] [main] |INFO | (Log.java) myLogger - Click submit button
+[2020-03-07 20:03:32] [main] |INFO | (Log.java) myLogger - Successful log in
+[2020-03-07 20:04:17] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-07 20:04:26] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583600666387screenshot.jpg
+[2020-03-07 20:04:27] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583600666962screenshot.jpg
+[2020-03-07 20:04:28] [main] |INFO | (Log.java) myLogger - Open login page
+[2020-03-07 20:04:29] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583600668997screenshot.jpg
+[2020-03-07 20:04:30] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583600669844screenshot.jpg
+[2020-03-07 20:04:30] [main] |INFO | (Log.java) myLogger - Type login
+[2020-03-07 20:04:31] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583600671289screenshot.jpg
+[2020-03-07 20:04:32] [main] |INFO | (Log.java) myLogger - Type password
+[2020-03-07 20:04:32] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583600672169screenshot.jpg
+[2020-03-07 20:04:32] [main] |INFO | (Log.java) myLogger - Click submit button
+[2020-03-07 20:04:32] [main] |INFO | (Log.java) myLogger - Successful log in
+[2020-03-07 20:04:52] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-07 20:05:00] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583600700368screenshot.jpg
+[2020-03-07 20:05:01] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583600700905screenshot.jpg
+[2020-03-07 20:05:02] [main] |INFO | (Log.java) myLogger - Open login page
+[2020-03-07 20:05:03] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583600702989screenshot.jpg
+[2020-03-07 20:05:04] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583600703807screenshot.jpg
+[2020-03-07 20:05:04] [main] |INFO | (Log.java) myLogger - Type login
+[2020-03-07 20:05:05] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583600705172screenshot.jpg
+[2020-03-07 20:05:05] [main] |INFO | (Log.java) myLogger - Type password
+[2020-03-07 20:05:06] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583600706046screenshot.jpg
+[2020-03-07 20:05:06] [main] |INFO | (Log.java) myLogger - Click submit button
+[2020-03-07 20:05:06] [main] |INFO | (Log.java) myLogger - Successful log in
+[2020-03-09 23:57:35] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583787454566screenshot.jpg
+[2020-03-09 23:57:35] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583787455471screenshot.jpg
+[2020-03-09 23:57:36] [main] |INFO | (Log.java) myLogger - Open login page
+[2020-03-09 23:57:37] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583787456668screenshot.jpg
+[2020-03-09 23:57:38] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583787457929screenshot.jpg
+[2020-03-09 23:57:39] [main] |INFO | (Log.java) myLogger - Type login
+[2020-03-09 23:57:40] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583787459794screenshot.jpg
+[2020-03-09 23:57:41] [main] |INFO | (Log.java) myLogger - Type password
+[2020-03-09 23:57:42] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\Projects\Task14\logs\1583787461107screenshot.jpg
+[2020-03-09 23:57:42] [main] |INFO | (Log.java) myLogger - Click submit button
+[2020-03-09 23:57:42] [main] |INFO | (Log.java) myLogger - Successful log in
+[2020-03-10 00:00:46] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-10 00:00:53] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\GitHub\jenkins\target\logs\1583787653065screenshot.jpg
+[2020-03-10 00:00:54] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\GitHub\jenkins\target\logs\1583787653829screenshot.jpg
+[2020-03-10 00:00:54] [main] |INFO | (Log.java) myLogger - Open login page
+[2020-03-10 00:00:55] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\GitHub\jenkins\target\logs\1583787655023screenshot.jpg
+[2020-03-10 00:00:56] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\GitHub\jenkins\target\logs\1583787655788screenshot.jpg
+[2020-03-10 00:00:56] [main] |INFO | (Log.java) myLogger - Type login
+[2020-03-10 00:00:57] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\GitHub\jenkins\target\logs\1583787657076screenshot.jpg
+[2020-03-10 00:00:57] [main] |INFO | (Log.java) myLogger - Type password
+[2020-03-10 00:00:58] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\GitHub\jenkins\target\logs\1583787657897screenshot.jpg
+[2020-03-10 00:00:58] [main] |INFO | (Log.java) myLogger - Click submit button
+[2020-03-10 00:00:58] [main] |INFO | (Log.java) myLogger - Successful log in
+[2020-03-10 00:01:32] [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+[2020-03-10 00:01:40] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\GitHub\jenkins\target\logs\1583787699753screenshot.jpg
+[2020-03-10 00:01:40] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\GitHub\jenkins\target\logs\1583787700395screenshot.jpg
+[2020-03-10 00:01:41] [main] |INFO | (Log.java) myLogger - Open login page
+[2020-03-10 00:01:42] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\GitHub\jenkins\target\logs\1583787701660screenshot.jpg
+[2020-03-10 00:01:43] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\GitHub\jenkins\target\logs\1583787702690screenshot.jpg
+[2020-03-10 00:01:43] [main] |INFO | (Log.java) myLogger - Type login
+[2020-03-10 00:01:45] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\GitHub\jenkins\target\logs\1583787704302screenshot.jpg
+[2020-03-10 00:01:45] [main] |INFO | (Log.java) myLogger - Type password
+[2020-03-10 00:01:46] [main] |INFO | (Log.java) myLogger - Taken screenshot C:\Programming\GitHub\jenkins\target\logs\1583787705610screenshot.jpg
+[2020-03-10 00:01:46] [main] |INFO | (Log.java) myLogger - Click submit button
+[2020-03-10 00:01:46] [main] |INFO | (Log.java) myLogger - Successful log in

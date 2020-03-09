@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[[2020-03-09 23:57:35] REPORT [main] |INFO | (Log.java) myLogger -  Taken screenshot <a href ="file:///C:\Programming\Projects\Task14\logs\1583787454566screenshot.jpg" target=”blank”>screenshot</a></br>]]>
+    </line>
+    <line>
+      <![CDATA[[2020-03-09 23:57:35] REPORT [main] |INFO | (Log.java) myLogger -  Taken screenshot <a href ="file:///C:\Programming\Projects\Task14\logs\1583787455471screenshot.jpg" target=”blank”>screenshot</a></br>]]>
+    </line>
+    <line>
+      <![CDATA[[2020-03-09 23:57:36] REPORT [main] |INFO | (Log.java) myLogger - Open login page
+</br>]]>
+    </line>
+    <line>
+      <![CDATA[[2020-03-09 23:57:37] REPORT [main] |INFO | (Log.java) myLogger -  Taken screenshot <a href ="file:///C:\Programming\Projects\Task14\logs\1583787456668screenshot.jpg" target=”blank”>screenshot</a></br>]]>
+    </line>
+    <line>
+      <![CDATA[[2020-03-09 23:57:38] REPORT [main] |INFO | (Log.java) myLogger -  Taken screenshot <a href ="file:///C:\Programming\Projects\Task14\logs\1583787457929screenshot.jpg" target=”blank”>screenshot</a></br>]]>
+    </line>
+    <line>
+      <![CDATA[[2020-03-09 23:57:39] REPORT [main] |INFO | (Log.java) myLogger - Type login
+</br>]]>
+    </line>
+    <line>
+      <![CDATA[[2020-03-09 23:57:40] REPORT [main] |INFO | (Log.java) myLogger -  Taken screenshot <a href ="file:///C:\Programming\Projects\Task14\logs\1583787459794screenshot.jpg" target=”blank”>screenshot</a></br>]]>
+    </line>
+    <line>
+      <![CDATA[[2020-03-09 23:57:41] REPORT [main] |INFO | (Log.java) myLogger - Type password
+</br>]]>
+    </line>
+    <line>
+      <![CDATA[[2020-03-09 23:57:42] REPORT [main] |INFO | (Log.java) myLogger -  Taken screenshot <a href ="file:///C:\Programming\Projects\Task14\logs\1583787461107screenshot.jpg" target=”blank”>screenshot</a></br>]]>
+    </line>
+    <line>
+      <![CDATA[[2020-03-09 23:57:42] REPORT [main] |INFO | (Log.java) myLogger - Click submit button
+</br>]]>
+    </line>
+    <line>
+      <![CDATA[[2020-03-09 23:57:42] REPORT [main] |INFO | (Log.java) myLogger - Successful log in
+</br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="17860" started-at="2020-03-09T23:57:27 MSK" finished-at="2020-03-09T23:57:45 MSK">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="17860" started-at="2020-03-09T23:57:27 MSK" finished-at="2020-03-09T23:57:45 MSK">
+      <class name="test.java.YandexDiskTests.SmokeTest">
+        <test-method status="PASS" signature="driverSetup()[pri:0, instance:test.java.YandexDiskTests.SmokeTest@146ba0ac]" name="driverSetup" is-config="true" duration-ms="6620" started-at="2020-03-09T23:57:27 MSK" finished-at="2020-03-09T23:57:33 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method status="PASS" signature="yandexDiscSmokeTest()[pri:0, instance:test.java.YandexDiskTests.SmokeTest@146ba0ac]" name="yandexDiscSmokeTest" duration-ms="10599" started-at="2020-03-09T23:57:33 MSK" description="Smoke test - log In to yandex Disc" finished-at="2020-03-09T23:57:44 MSK">
+          <reporter-output>
+            <line>
+              <![CDATA[[2020-03-09 23:57:35] REPORT [main] |INFO | (Log.java) myLogger -  Taken screenshot <a href ="file:///C:\Programming\Projects\Task14\logs\1583787454566screenshot.jpg" target=”blank”>screenshot</a></br>]]>
+            </line>
+            <line>
+              <![CDATA[[2020-03-09 23:57:35] REPORT [main] |INFO | (Log.java) myLogger -  Taken screenshot <a href ="file:///C:\Programming\Projects\Task14\logs\1583787455471screenshot.jpg" target=”blank”>screenshot</a></br>]]>
+            </line>
+            <line>
+              <![CDATA[[2020-03-09 23:57:36] REPORT [main] |INFO | (Log.java) myLogger - Open login page
+</br>]]>
+            </line>
+            <line>
+              <![CDATA[[2020-03-09 23:57:37] REPORT [main] |INFO | (Log.java) myLogger -  Taken screenshot <a href ="file:///C:\Programming\Projects\Task14\logs\1583787456668screenshot.jpg" target=”blank”>screenshot</a></br>]]>
+            </line>
+            <line>
+              <![CDATA[[2020-03-09 23:57:38] REPORT [main] |INFO | (Log.java) myLogger -  Taken screenshot <a href ="file:///C:\Programming\Projects\Task14\logs\1583787457929screenshot.jpg" target=”blank”>screenshot</a></br>]]>
+            </line>
+            <line>
+              <![CDATA[[2020-03-09 23:57:39] REPORT [main] |INFO | (Log.java) myLogger - Type login
+</br>]]>
+            </line>
+            <line>
+              <![CDATA[[2020-03-09 23:57:40] REPORT [main] |INFO | (Log.java) myLogger -  Taken screenshot <a href ="file:///C:\Programming\Projects\Task14\logs\1583787459794screenshot.jpg" target=”blank”>screenshot</a></br>]]>
+            </line>
+            <line>
+              <![CDATA[[2020-03-09 23:57:41] REPORT [main] |INFO | (Log.java) myLogger - Type password
+</br>]]>
+            </line>
+            <line>
+              <![CDATA[[2020-03-09 23:57:42] REPORT [main] |INFO | (Log.java) myLogger -  Taken screenshot <a href ="file:///C:\Programming\Projects\Task14\logs\1583787461107screenshot.jpg" target=”blank”>screenshot</a></br>]]>
+            </line>
+            <line>
+              <![CDATA[[2020-03-09 23:57:42] REPORT [main] |INFO | (Log.java) myLogger - Click submit button
+</br>]]>
+            </line>
+            <line>
+              <![CDATA[[2020-03-09 23:57:42] REPORT [main] |INFO | (Log.java) myLogger - Successful log in
+</br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- yandexDiscSmokeTest -->
+        <test-method status="PASS" signature="driverQuit()[pri:0, instance:test.java.YandexDiskTests.SmokeTest@146ba0ac]" name="driverQuit" is-config="true" duration-ms="616" started-at="2020-03-09T23:57:44 MSK" finished-at="2020-03-09T23:57:45 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverQuit -->
+      </class> <!-- test.java.YandexDiskTests.SmokeTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

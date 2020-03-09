@@ -1,0 +1,6 @@
+test\java\YandexDiskTests\SmokeTest.class
+test\java\YandexDiskTests\steps\CreateFolderAndWordFileSteps.class
+test\java\YandexDiskTests\steps\NavigationBlockSteps.class
+test\java\YandexDiskTests\steps\GarbageSteps.class
+test\java\YandexDiskTests\CommonConditions.class
+test\java\YandexDiskTests\steps\LoginSteps.class

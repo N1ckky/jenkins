@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[[2020-03-10 00:01:32] REPORT [main] |INFO | (Log.java) myLogger - Parsing clis by JCommander
+</br>]]>
+    </line>
+    <line>
+      <![CDATA[[2020-03-10 00:01:40] REPORT [main] |INFO | (Log.java) myLogger -  Taken screenshot <a href ="file:///C:\Programming\GitHub\jenkins\target\logs\1583787699753screenshot.jpg" target=”blank”>screenshot</a></br>]]>
+    </line>
+    <line>
+      <![CDATA[[2020-03-10 00:01:40] REPORT [main] |INFO | (Log.java) myLogger -  Taken screenshot <a href ="file:///C:\Programming\GitHub\jenkins\target\logs\1583787700395screenshot.jpg" target=”blank”>screenshot</a></br>]]>
+    </line>
+    <line>
+      <![CDATA[[2020-03-10 00:01:41] REPORT [main] |INFO | (Log.java) myLogger - Open login page
+</br>]]>
+    </line>
+    <line>
+      <![CDATA[[2020-03-10 00:01:42] REPORT [main] |INFO | (Log.java) myLogger -  Taken screenshot <a href ="file:///C:\Programming\GitHub\jenkins\target\logs\1583787701660screenshot.jpg" target=”blank”>screenshot</a></br>]]>
+    </line>
+    <line>
+      <![CDATA[[2020-03-10 00:01:43] REPORT [main] |INFO | (Log.java) myLogger -  Taken screenshot <a href ="file:///C:\Programming\GitHub\jenkins\target\logs\1583787702690screenshot.jpg" target=”blank”>screenshot</a></br>]]>
+    </line>
+    <line>
+      <![CDATA[[2020-03-10 00:01:43] REPORT [main] |INFO | (Log.java) myLogger - Type login
+</br>]]>
+    </line>
+    <line>
+      <![CDATA[[2020-03-10 00:01:45] REPORT [main] |INFO | (Log.java) myLogger -  Taken screenshot <a href ="file:///C:\Programming\GitHub\jenkins\target\logs\1583787704302screenshot.jpg" target=”blank”>screenshot</a></br>]]>
+    </line>
+    <line>
+      <![CDATA[[2020-03-10 00:01:45] REPORT [main] |INFO | (Log.java) myLogger - Type password
+</br>]]>
+    </line>
+    <line>
+      <![CDATA[[2020-03-10 00:01:46] REPORT [main] |INFO | (Log.java) myLogger -  Taken screenshot <a href ="file:///C:\Programming\GitHub\jenkins\target\logs\1583787705610screenshot.jpg" target=”blank”>screenshot</a></br>]]>
+    </line>
+    <line>
+      <![CDATA[[2020-03-10 00:01:46] REPORT [main] |INFO | (Log.java) myLogger - Click submit button
+</br>]]>
+    </line>
+    <line>
+      <![CDATA[[2020-03-10 00:01:46] REPORT [main] |INFO | (Log.java) myLogger - Successful log in
+</br>]]>
+    </line>
+  </reporter-output>
+  <suite name="YandexDisk" duration-ms="17529" started-at="2020-03-10T00:01:33 MSK" finished-at="2020-03-10T00:01:50 MSK">
+    <groups>
+    </groups>
+    <test name="SmokeTest" duration-ms="17529" started-at="2020-03-10T00:01:33 MSK" finished-at="2020-03-10T00:01:50 MSK">
+      <class name="test.java.YandexDiskTests.SmokeTest">
+        <test-method status="PASS" signature="driverSetup()[pri:0, instance:test.java.YandexDiskTests.SmokeTest@5e5792a0]" name="driverSetup" is-config="true" duration-ms="5732" started-at="2020-03-10T00:01:33 MSK" finished-at="2020-03-10T00:01:39 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method status="PASS" signature="yandexDiscSmokeTest()[pri:0, instance:test.java.YandexDiskTests.SmokeTest@5e5792a0]" name="yandexDiscSmokeTest" duration-ms="11154" started-at="2020-03-10T00:01:39 MSK" description="Smoke test - log In to yandex Disc" finished-at="2020-03-10T00:01:50 MSK">
+          <reporter-output>
+            <line>
+              <![CDATA[[2020-03-10 00:01:40] REPORT [main] |INFO | (Log.java) myLogger -  Taken screenshot <a href ="file:///C:\Programming\GitHub\jenkins\target\logs\1583787699753screenshot.jpg" target=”blank”>screenshot</a></br>]]>
+            </line>
+            <line>
+              <![CDATA[[2020-03-10 00:01:40] REPORT [main] |INFO | (Log.java) myLogger -  Taken screenshot <a href ="file:///C:\Programming\GitHub\jenkins\target\logs\1583787700395screenshot.jpg" target=”blank”>screenshot</a></br>]]>
+            </line>
+            <line>
+              <![CDATA[[2020-03-10 00:01:41] REPORT [main] |INFO | (Log.java) myLogger - Open login page
+</br>]]>
+            </line>
+            <line>
+              <![CDATA[[2020-03-10 00:01:42] REPORT [main] |INFO | (Log.java) myLogger -  Taken screenshot <a href ="file:///C:\Programming\GitHub\jenkins\target\logs\1583787701660screenshot.jpg" target=”blank”>screenshot</a></br>]]>
+            </line>
+            <line>
+              <![CDATA[[2020-03-10 00:01:43] REPORT [main] |INFO | (Log.java) myLogger -  Taken screenshot <a href ="file:///C:\Programming\GitHub\jenkins\target\logs\1583787702690screenshot.jpg" target=”blank”>screenshot</a></br>]]>
+            </line>
+            <line>
+              <![CDATA[[2020-03-10 00:01:43] REPORT [main] |INFO | (Log.java) myLogger - Type login
+</br>]]>
+            </line>
+            <line>
+              <![CDATA[[2020-03-10 00:01:45] REPORT [main] |INFO | (Log.java) myLogger -  Taken screenshot <a href ="file:///C:\Programming\GitHub\jenkins\target\logs\1583787704302screenshot.jpg" target=”blank”>screenshot</a></br>]]>
+            </line>
+            <line>
+              <![CDATA[[2020-03-10 00:01:45] REPORT [main] |INFO | (Log.java) myLogger - Type password
+</br>]]>
+            </line>
+            <line>
+              <![CDATA[[2020-03-10 00:01:46] REPORT [main] |INFO | (Log.java) myLogger -  Taken screenshot <a href ="file:///C:\Programming\GitHub\jenkins\target\logs\1583787705610screenshot.jpg" target=”blank”>screenshot</a></br>]]>
+            </line>
+            <line>
+              <![CDATA[[2020-03-10 00:01:46] REPORT [main] |INFO | (Log.java) myLogger - Click submit button
+</br>]]>
+            </line>
+            <line>
+              <![CDATA[[2020-03-10 00:01:46] REPORT [main] |INFO | (Log.java) myLogger - Successful log in
+</br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- yandexDiscSmokeTest -->
+        <test-method status="PASS" signature="driverQuit()[pri:0, instance:test.java.YandexDiskTests.SmokeTest@5e5792a0]" name="driverQuit" is-config="true" duration-ms="622" started-at="2020-03-10T00:01:50 MSK" finished-at="2020-03-10T00:01:50 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverQuit -->
+      </class> <!-- test.java.YandexDiskTests.SmokeTest -->
+    </test> <!-- SmokeTest -->
+  </suite> <!-- YandexDisk -->
+</testng-results>
